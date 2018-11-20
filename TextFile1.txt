@@ -1,0 +1,6 @@
+easy anagram words for a school hack ( apple, desk, student, ball, gym )
+
+medium hax anagram for hospital (needle, doctor, nurse, operation, antibiotic)
+
+hard hax anagram for NSA (general, abhrams, freedom, president, congress)
+
